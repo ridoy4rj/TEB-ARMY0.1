@@ -10,8 +10,7 @@ fw  =   Fore.WHITE
 fg  =   Fore.GREEN
 fm  =   Fore.MAGENTA
 # Coded By RxR HaCkEr, Skype:a.789a , Telegram:@Mjzrh
-banner = '''{}
-          
+banner = '''{} 
   _____ _____ ____        _    ____  __  ____   __
  |_   _| ____| __ )      / \  |  _ \|  \/  \ \ / /
    | | |  _| |  _ \     / _ \ | |_) | |\/| |\ V / 
